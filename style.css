@@ -1,0 +1,22 @@
+img {   width: 150Px;
+  border-radius: 50%;
+opacity:0.7;} 
+
+
+body { background-color:pink; color:black; font-family:Calibri; font-size:18px} 
+
+h1{ text-align: center ; font-size:50px; }
+
+h2{  color:black; font-family:Calibri; font-size:18px }
+ 
+
+ 
+ .testone { align text: center ; color:red ; font-size:35px }
+ 
+  .imgone {
+	border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px; 
+ }
+ 
